@@ -1,4 +1,4 @@
 PSO for XGBoost and comparision with GridsearchCV
 
-Data: Diabetes Indicator 2015 BRFSS
-Scoring: recall/accuracy 
+Data: Cardiovascular Disease Indicator 2021 BRFSS
+Scoring: accuracy/f1/roc_auc
